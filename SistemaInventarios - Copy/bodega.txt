@@ -1,0 +1,2 @@
+5,calcetines,ENTRADA,300,370
+5,calcetines,SALIDA,150,220
